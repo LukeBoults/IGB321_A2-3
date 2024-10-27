@@ -1,3 +1,16 @@
+**THE FOLLOWING PATH MUST BE TAKEN IN THE EDITOR TO GET TO THE FIRST LEVEL OF THE GAME**
+
+IGB321_A2-3/Content/StackOBot/Maps/Level3.umap
+
+Unfortunately due to unsolvable complications with the packaging process, we were unable to build the game
+
+GitHub Link: https://github.com/LukeBoults/IGB321_A2-3
+
+
+Drive Link: https://drive.google.com/drive/folders/1drQ-OqRJECHOY2IEziAMkJKPIN9EuEDh?usp=sharing
+
+Gameplay Video: https://www.youtube.com/watch?v=8-HQFb2C4e0
+
 Hello and welcome to Time Gardener!
 
 In the far future the  majority of the planet’s plant life has gone extinct. As a solution scientists have sent Herb-ii, an advanced robot, back in time to collect samples from the greenery of the past. Their  goal is to eventually bring enough plants forward in time to restore the Earth’s broken biosphere.
