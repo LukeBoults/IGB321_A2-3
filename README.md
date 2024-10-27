@@ -6,9 +6,6 @@ Unfortunately due to unsolvable complications with the packaging process, we wer
 
 GitHub Link: https://github.com/LukeBoults/IGB321_A2-3
 
-
-Drive Link: https://drive.google.com/drive/folders/1drQ-OqRJECHOY2IEziAMkJKPIN9EuEDh?usp=sharing
-
 Gameplay Video: https://www.youtube.com/watch?v=8-HQFb2C4e0
 
 Hello and welcome to Time Gardener!
